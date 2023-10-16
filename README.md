@@ -23,6 +23,6 @@ OpenWeatherMap API for weather data
 
 ## Website :
 
-To access the password generator:
+To access the password generator: https://yperera20.github.io/Weather-Dashboard/
 
 ![Alt text](image.png)
